@@ -4,6 +4,30 @@
     font-family: "Roboto", sans-serif;
 }
 
+
+.header-nav {
+    background-color: #1b4436;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+}
+
+.header-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #50aa5a;
+    height: 399px;
+}
+
+.header-link {
+    display: flex;
+    text-decoration: none;
+    color: #ffffff;
+    flex-direction: row;
+}
+
 .card-galeria {
     display: flex;
     flex-wrap: wrap;
